@@ -25,4 +25,7 @@ Criar um modelo preditivo que possa identificar pacientes com uma alta probabili
   - No Show:
     - 1 - Paciente não compareceu na consulta.
     - 0 - Paciente esteve presente na consulta.
-  - **Momento previsto para previsão**: 24h antes do antendimento.
+- **Momento previsto para previsão**: 24h antes do antendimento.
+
+## 📚 5. Data Understading (EDA)
+ **To add in the future**
