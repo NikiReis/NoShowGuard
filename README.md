@@ -28,4 +28,4 @@ Criar um modelo preditivo que possa identificar pacientes com uma alta probabili
 - **Momento previsto para previsão**: 24h antes do antendimento.
 
 ## 📚 5. Data Understading (EDA)
- **To add in the future**
+ **Em construção**
